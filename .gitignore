@@ -1,0 +1,6 @@
+./.pynb_checkpoints/*
+*checkpoint.ipynb
+*~
+*pyc
+*.json#
+.ipynb_checkpoints*
